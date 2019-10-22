@@ -68,3 +68,7 @@ It's not an exact match because there's an extra step that's not currently visib
 At the top-level of the schema, there's a `schema` element that's the entry point (or root element). This element contains the `query` operation; which described by the type `Query`. This was initially omitted because this is the default configuration (unless otherwise specified).
 
 ![comparison2](./images/comparison2.png)
+
+---
+
+## Client
